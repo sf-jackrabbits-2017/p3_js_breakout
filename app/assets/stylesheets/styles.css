@@ -1,0 +1,7 @@
+#menu, #content {
+  min-height: 400px;
+}
+
+.selected {
+  color: orange !important;
+}
